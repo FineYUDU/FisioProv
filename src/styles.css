@@ -1,1 +1,20 @@
 /* You can add global styles to this file, and also import other style files */
+html {
+    min-height: 100%;
+}
+.carousel-caption {
+    position: absolute;
+    left: 0;
+    width: 50%;
+    top: 2%;
+    margin-left: 15%;
+    text-align: left;
+}
+
+.carousel-caption h3 {
+    font-size:5em;
+}
+
+.container-root {
+    min-height: 100%;
+}
